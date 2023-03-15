@@ -6,3 +6,7 @@
     height: 500px;
     width: 500px;
 }
+.margem{
+    display: flex;
+    flex-direction: row;
+}
