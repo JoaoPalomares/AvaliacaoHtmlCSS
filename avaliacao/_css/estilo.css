@@ -1,12 +1,26 @@
+body{
+    background-image: linear-gradient(yellow, rgb(228, 20, 54), rgb(223, 149, 12));
+    margin-left: 10%;
+}
 .img1{
     height: 500px;
     width: 800px;
+    border: solid red;
+    border-radius: 5%;
 }
 .img2{
     height: 500px;
     width: 500px;
+    border: solid black;
 }
 .margem{
     display: flex;
     flex-direction: row;
+}
+.img3{
+    margin: none;
+}
+.img4{
+    height: 100px;
+    width: 400px;
 }
